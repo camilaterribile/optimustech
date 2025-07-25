@@ -1,0 +1,37 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu__logo {
+    padding: 1.5em 4em;
+}
+
+.menu__links {
+    display: flex;
+    gap: 2em;
+    margin-right: 8em;
+    
+}
+
+.menu__links__item {
+    text-decoration: none;
+    color: var(--text-color);
+    align-content: center;
+}
+
+.menu__buttons {
+    display: flex;
+    gap: 1.5em;
+    margin-right: 5em;
+}
+
+.menu__links__item-button {
+    background-color: var(--color-secondary);
+    color: var(--white);
+    border: 1px solid var(--color-secondary);
+    border-radius: 8px;
+    padding: 0.8em 1em;
+    text-decoration: none
+}
