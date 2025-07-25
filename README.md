@@ -1,4 +1,5 @@
 # Optimus Tech
+https://optimustech-drab.vercel.app/
 
 Landing page responsiva criada com HTML e CSS no desafio #7DaysOfCode da Alura.
 
@@ -61,7 +62,7 @@ Design original disponível no Figma:
 📄 index.html      → Página principal  
 
 ✨ Resultado final
-🔗 Acessar projeto online no GitHub Pages (se publicado)
+🔗 Acessar projeto online no GitHub Pages  ou (https://optimustech-drab.vercel.app/)
 
 📬 Contato
 Para acompanhar meu aprendizado ou entrar em contato:
@@ -82,6 +83,7 @@ Consulte o arquivo LICENSE para mais informações.
 English version
 
 # Optimus Tech
+https://optimustech-drab.vercel.app/
 
 Responsive landing page built with HTML and CSS for the #7DaysOfCode challenge by Alura.
 
@@ -144,7 +146,7 @@ Design available on Figma:
 📄 index.html      → Main page  
 
 ✨ Final result
-🔗 View live project on GitHub Pages (if published)
+🔗 View live project on GitHub Pages or https://optimustech-drab.vercel.app/
 
 📬 Contact
 If you’d like to follow my learning journey or get in touch:
@@ -165,6 +167,7 @@ See the LICENSE file for more information.
 Versione in italiano
 
 # Optimus Tech
+https://optimustech-drab.vercel.app/
 
 Landing page responsiva realizzata con HTML e CSS per la sfida #7DaysOfCode di Alura.
 
@@ -227,7 +230,7 @@ Design originale disponibile su Figma:
 📄 index.html      → Pagina principale  
 
 ✨ Risultato finale
-🔗 Visualizza progetto online (GitHub Pages) (se pubblicato)
+🔗 Visualizza progetto online (GitHub Pages) oppure https://optimustech-drab.vercel.app/
 
 📬 Contatti
 Per seguire il mio percorso o contattarmi:
